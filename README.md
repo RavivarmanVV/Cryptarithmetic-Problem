@@ -120,7 +120,7 @@ else:
 <hr>
 <h2>Output:</h2>
 
-<img width="1154" height="594" alt="image" src="https://github.com/user-attachments/assets/1adab294-cc44-46f9-a1ba-8bfc5247559f" />
+<img width="1500" height="769" alt="image" src="https://github.com/user-attachments/assets/81482091-3ebb-4645-84e0-b16317ffa142" />
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
